@@ -6,3 +6,6 @@ toilet (sudo apt-get install toilet). This is for printing the banner.
 ## Usage
 In order to use the script login as a root user and simply place the script inside /etc/profile.d/ directory. 
 
+##ALERT
+Please note that this project is still in progress as it uses plain text Q and A. I am aware of this issue and working on resolving this.
+
